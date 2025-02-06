@@ -2,7 +2,7 @@
   "name": "mycounterapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Anjali598/CounterApp",
+  "homepage": "https://Anjali598.github.io/CounterApp",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
